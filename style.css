@@ -1,0 +1,96 @@
+.bat-container{
+    width: 500px;
+    height: 450px;
+    background-color: rgb(15, 15, 15);
+    margin: auto;
+    position: relative;
+}
+.bat-parent{
+    width: 150px;
+    height: 120px;
+    background-color: #a08113 ;
+    position: absolute; 
+    margin: auto;
+    width: 50%;
+    margin-top:120px;
+    margin-left: 100px; 
+   
+
+
+}
+.bat-circle1{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color:black;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 115px;
+}
+.bat-circle2{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color:black;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 115px;
+    
+} 
+ .bat-circle3{
+    width: 149px;
+    height: 99px;
+    border-radius: 50%;
+    background-color:black;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 182px;
+    /* margin-bottom: 150px; */
+}
+.bat-circle4{
+    width: 149px;
+    height: 99px;
+    border-radius: 50%;
+    background-color:black;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 182px;
+}  
+.bat-circle6{
+    width: 35px;
+    height: 80px;
+    border-radius: 5px 5px 3px 3px;
+    background-color: black;
+    margin-left: 170px;
+    margin-top: 60px;
+    position: absolute;
+}
+.bat-circle7{
+    width: 35px;
+    height: 80px;
+    border-radius: 3px 3px 3px 3px ;
+    background-color: black;
+    margin-left: 240px;
+    margin-top: 60px;
+    position: absolute;
+}
+.bat-circle8{
+    border-radius: 50%;
+    width:15px;
+    height:15px;
+    margin-left: 237px;
+    margin-top: 112px;
+
+    background-color:#a08113 ;
+    position: absolute;
+}
+.bat-circle9{
+    border-radius: 50%;
+    width:15px;
+    height:15px;
+    margin-left: 202px;
+    margin-top: 112px;
+
+    background-color:#a08113 ;
+    position: absolute;
+}
